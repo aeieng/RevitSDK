@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>RevitSDK</id>
-    <version>2021.0.0</version>
+    <version>2021.0.1</version>
     <title>RevitSDK</title>
     <authors>AEI</authors>
     <owners></owners>
@@ -12,11 +12,11 @@
   </metadata>
   <files>
     <file src="lib\2021\AdWindows.dll" target="lib\net48\AdWindows.dll" />
-    <file src="lib\2020\RevitAPI.dll" target="lib\net48\RevitAPI.dll" />
-    <file src="lib\2020\RevitAPI.xml" target="lib\net48\RevitAPI.xml" />
-    <file src="lib\2020\RevitAPIIFC.dll" target="lib\net48\RevitAPIIFC.dll" />
-    <file src="lib\2020\RevitAPIIFC.xml" target="lib\net48\RevitAPIIFC.xml" />
-    <file src="lib\2020\RevitAPIUI.dll" target="lib\net48\RevitAPIUI.dll" />
-    <file src="lib\2020\RevitAPIUI.xml" target="lib\net48\RevitAPIUI.xml" />
+    <file src="lib\2021\RevitAPI.dll" target="lib\net48\RevitAPI.dll" />
+    <file src="lib\2021\RevitAPI.xml" target="lib\net48\RevitAPI.xml" />
+    <file src="lib\2021\RevitAPIIFC.dll" target="lib\net48\RevitAPIIFC.dll" />
+    <file src="lib\2021\RevitAPIIFC.xml" target="lib\net48\RevitAPIIFC.xml" />
+    <file src="lib\2021\RevitAPIUI.dll" target="lib\net48\RevitAPIUI.dll" />
+    <file src="lib\2021\RevitAPIUI.xml" target="lib\net48\RevitAPIUI.xml" />
   </files>
 </package>
